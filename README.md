@@ -1,5 +1,5 @@
 # Hyperalignment for images in Internet of Agriculture Things
-Various scripts and diagrams used for "Hyper-alignment on SoM Edge Devices for Internet of Agriculture Things" academic paper. Work was done in a Summer 2022 USRA Co-op position. The tools are adapted from [ContextLab Hypertools](https://github.com/ContextLab/hypertools/tree/master/hypertools/tools)
+Various scripts and diagrams used for "Hyper-alignment on SoM Edge Devices for Internet of Agriculture Things" academic paper. Summer 2022 USRA Co-op. The tools are adapted from [ContextLab Hypertools](https://github.com/ContextLab/hypertools/tree/master/hypertools/tools)
 
 ## Usage
 
