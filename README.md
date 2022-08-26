@@ -17,6 +17,14 @@ show_image(aligned_result)
 save_image("afilename.png", aligned_result)
 ```
 ## Output example
+Image 1
+
 ![Image 1](/examples/image1.jpg)
+
+Image 2
+
 ![Image 2](/examples/image2.jpg)
+
+Alignment Result
+
 ![Alignment result](/examples/result.png)
