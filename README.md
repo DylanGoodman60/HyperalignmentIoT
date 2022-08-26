@@ -16,3 +16,7 @@ aligned_result = align_RGB_images([img1.astype(float), img2.astype(float)])
 show_image(aligned_result)
 save_image("afilename.png", aligned_result)
 ```
+## Output example
+![Image 1](/examples/image1.jpg)
+![Image 2](/examples/image2.jpg)
+![Alignment result](/examples/result.png)
